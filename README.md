@@ -13,7 +13,7 @@
 - If you are a Flutter Developer, then it is a great begiiner friendly project
 
 ### Download the app
-![Download](https://drive.google.com/file/d/11Fcef9XXozvp8eOCBJ1j1KdX-N-mnhr7/view?usp=sharing)
+[Download](https://drive.google.com/file/d/11Fcef9XXozvp8eOCBJ1j1KdX-N-mnhr7/view?usp=sharing)
 
 
 
