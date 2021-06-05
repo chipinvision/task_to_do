@@ -7,7 +7,7 @@
 - Flutter Famework
 
 
-### Open-Source Calculator App
+### Open-Source Todo App
 
 - You can modify this app according to your choice
 - If you are a Flutter Developer, then it is a great begiiner friendly project
